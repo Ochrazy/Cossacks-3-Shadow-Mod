@@ -7,7 +7,7 @@ This Mod changes the shadows to use Poisson sampling instead of a simple regular
 The results are better soft shadows with the same performance.
 
 The Mod changes only one file and enables to easily change the softness of the shadows.
-In the file there is a variable spread which controls the softness.
+In the file there is a variable *spread* which controls the softness.
 The higher the value of spread is the harder the shadows get.
 You can change it to whatever you like. 
 A value of 350 gets you very similar shadows to the original but without the banding effect.
